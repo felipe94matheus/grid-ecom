@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #bebebe6d;
+}
+
+header {
+    background-color: #bebebe6d;
+    padding: 30px 10px;
+}
+
+.nav-link {
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.col {
+    margin: 100px 10px;
+}
+
+.card {
+    box-shadow: 0px 5px 20px 5px rgb(171, 171, 171);
+    background-color: #ececa3;
+    border-color: 1px solid white;
+}
+
+.button-cards {
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 8px;
+    background-color: #32CD32;
+    color: white;
+    transition: ease-in-out 0.9s;
+}
+
+.button-cards:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid #32CD32;
+}
+
+.card-img-top {
+    padding-top: 5px;
+}
