@@ -9,5 +9,5 @@
 <br>
 
 <p align="center">
-<a href="https://grid-ecommerce-arvore.vercel.app/">Visualizar Projeto</a>
+<a target="_blank" href="https://grid-ecommerce-arvore.vercel.app/">Visualizar Projeto</a>
   </p>
